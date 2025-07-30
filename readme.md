@@ -1,6 +1,6 @@
 📦 Kit de Utilidades para E-commerces
 
-Este projeto inovador foi desenvolvido como parte de uma experiência de aprendizado prática, em colaboração com o Professor Felipe Aguiar (Felipão) da DIO (Digital Innovation One).
+Este projeto foi desenvolvido como parte de uma experiência de aprendizado prática, em colaboração com o Professor Felipe Aguiar (Felipão) da DIO (Digital Innovation One).
 Ojetivo é oferecer um conjunto de ferramentas robustas e eficientes para otimizar as operações de e-commerce.
 
 🎯 Objetivo:
